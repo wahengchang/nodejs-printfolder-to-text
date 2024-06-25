@@ -1,0 +1,31 @@
+ -=-=-= overview of all files [start] -=-=-=
+./foo.txt
+./sub1
+./sub1/foo1.txt
+./sub1/sub2
+./sub1/sub2/foo2.txt
+ -=-=-= overview of all files [end] -=-=-=
+
+ -=-=-= content of ./foo.txt [start] -=-=-=
+foo foo foo foo foo foo foo foo 
+foo foo foo foo foo foo 
+foo foo foo foo 
+foo foo 
+foo 
+ -=-=-= content of ./foo.txt [end] -=-=-=
+
+ -=-=-= content of ./sub1/foo1.txt [start] -=-=-=
+foo1 foo1 foo1 foo1 foo1 
+foo1 foo1 foo1 foo1 
+foo1 foo1 foo1 
+foo1 foo1 
+foo1 
+ -=-=-= content of ./sub1/foo1.txt [end] -=-=-=
+
+ -=-=-= content of ./sub1/sub2/foo2.txt [start] -=-=-=
+foo2 foo2 foo2 foo2 
+foo2 foo2 foo2 
+foo2 foo2 
+foo2 
+ -=-=-= content of ./sub1/sub2/foo2.txt [end] -=-=-=
+
